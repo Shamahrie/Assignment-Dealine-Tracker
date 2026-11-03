@@ -15,8 +15,8 @@ A web application that helps students organize assignments, monitor upcoming dea
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Browser Local Storage
 
